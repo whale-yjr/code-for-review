@@ -1,0 +1,12 @@
+Term	Count	PValue
+keratinocyte differentiation	13	2.950647204337165e-12
+keratinization	12	1.7411214960292205e-09
+innate immune response	28	2.1000254985195213e-10
+apoptotic process	24	7.115809261428363e-08
+aging	11	2.213337240667386e-06
+inflammatory response	17	7.626520008398543e-06
+cellular response to hypoxia	8	0.0004280670773052822
+cellular response to tumor necrosis factor	8	0.0004890627860017209
+positive regulation of angiogenesis	7	0.006482069052282272
+angiogenesis	8	0.015161414375931897
+regulation of cell proliferation	6	0.029909051222730788

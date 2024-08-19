@@ -1,0 +1,12 @@
+Term	Count	PValue
+cell division	101	2.0837393090821867e-62
+mitotic cell cycle	43	8.691513833002733e-28
+chromosome segregation	34	2.0888962409045093e-27
+mitotic spindle organization	27	8.067976046244818e-24
+mitotic sister chromatid segregation	22	2.657625527423486e-22
+cell cycle	44	1.587793884047438e-13
+mitotic cytokinesis	19	2.394103572162899e-12
+G2/M transition of mitotic cell cycle	15	3.1126781705296387e-09
+DNA repair	32	9.690464661633276e-09
+DNA replication	18	3.471109260339605e-07
+regulation of cell cycle	26	1.9882709776086984e-06

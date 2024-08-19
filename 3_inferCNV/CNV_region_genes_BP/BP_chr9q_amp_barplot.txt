@@ -1,0 +1,5 @@
+Term	Count	PValue
+phosphorylation	9	0.001592698037633482
+protein glycosylation	7	0.0073218815652591075
+cell cycle	12	0.016389517102983885
+positive regulation of cell growth	5	0.0441616201171808

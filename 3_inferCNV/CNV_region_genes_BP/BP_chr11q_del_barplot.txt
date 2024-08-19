@@ -1,0 +1,5 @@
+Term	Count	PValue
+cellular response to DNA damage stimulus	12	0.000465969429223316
+DNA repair	12	0.0005329681077762021
+DNA damage checkpoint	4	0.008090302842357261
+positive regulation of base-excision repair	2	0.02223063436083556

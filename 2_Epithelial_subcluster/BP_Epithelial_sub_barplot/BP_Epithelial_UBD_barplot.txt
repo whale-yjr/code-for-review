@@ -1,0 +1,12 @@
+Term	Count	PValue
+positive regulation of cell migration	39	6.601093587657484e-11
+cell migration	40	7.368986534377326e-11
+angiogenesis	37	4.503675027903829e-10
+antigen processing and presentation	14	3.62453740897372e-08
+extracellular matrix organization	28	3.753317307767209e-08
+positive regulation of T cell activation	11	1.1582279018265763e-06
+apoptotic process	49	7.085580802537243e-05
+positive regulation of angiogenesis	20	9.667044390708184e-05
+positive regulation of T cell mediated cytotoxicity	9	0.00012624457928309555
+response to hypoxia	17	0.001776539975839486
+keratinocyte proliferation	6	0.005581569167639471

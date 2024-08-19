@@ -1,0 +1,4 @@
+Term	Count	PValue
+regulation of cell growth	7	0.00891960226878381
+mitotic spindle organization	6	0.009377612075078107
+positive regulation of cell growth	7	0.016973135535441716
